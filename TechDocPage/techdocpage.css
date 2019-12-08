@@ -1,0 +1,71 @@
+header {
+  font-size: 50px;
+  height: 100px;
+  color: white;
+  max-height: 100%;
+  background: rgba(62, 132, 201, 0.6);
+  display: flex;
+  justify-content: center;
+}
+
+.navbar {
+  float: left;
+  display: inline-block;
+  background: pink;
+}
+
+ul {
+  list-style-type: none;
+  font-family: 'Trochhi';
+  font-size: 25px;
+  background: rgba(62, 132, 201, 0.9); 
+  width: 30%;
+  min-width: 30%;
+  max-width: 30%;
+  float: left;
+  padding-bottom: none;
+  margin: none;
+  height: 300px;
+}
+
+#paragraphs {
+ font-size: 20px;
+ color: white;
+ float: right;
+ display: inline-block;  
+ width: 65%;
+ max-width: 65%;
+ min-width: 65%;
+ float: left;
+ padding-left: 5px;
+}
+
+#WhatisLoremIpsum {
+  background: rgba(62, 132, 201, 0.8);
+}
+
+#Wheredoesitcomefrom {
+  background: rgba(62, 132, 201, 0.8);
+}
+
+#Whydoweuseit {
+  background: rgba(62, 132, 201, 0.8);
+}
+
+#WherecanIgetsome {
+  background: rgba(62, 132, 201, 0.8);
+}
+
+#ThestandardLoremIpsumpassage {
+  background: rgba(62, 132, 201, 0.8);
+}
+
+h1 {
+  font-color: black;
+  font-size: 24px;
+  font-family: 'Trocchi';
+}
+
+a {
+  color: white;
+}
